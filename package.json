@@ -1,0 +1,16 @@
+{
+  "name": "twitter-js",
+  "version": "0.0.0",
+  "description": "Workshop on Twitter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Patrick Sullivan / Richard Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.5.1",
+    "express": "^4.12.2"
+  }
+}
